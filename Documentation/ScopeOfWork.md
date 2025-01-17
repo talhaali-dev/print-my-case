@@ -159,4 +159,4 @@ A high-level architecture diagram includes:
 - Sanity CMS: [﻿Sanity CMS Docs](https://www.sanity.io/) 
 - Clerk Authentication: [﻿Clerk API Docs](https://clerk.dev/docs) 
 
-
+![image](https://github.com/user-attachments/assets/687e75e4-fa69-44c8-be3b-ad61d4906127)
